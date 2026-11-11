@@ -1,0 +1,6 @@
+{
+  "name": "LayoutKeeper",
+  "description": "Local-first document editor with layout preservation for PDF, Word DOCX, and office formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
